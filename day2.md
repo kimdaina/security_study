@@ -134,7 +134,7 @@ uniq의 옵션이기 때문에 uniq 뒤에 옵션이 붙음 <br>
 strings 파일명 <br>
 -> 바이너리 파일에서 사람이 읽을 수 있는(Printable) 문자열만 추출해서 출력
 
-\*
+\*  <br>
 strings data.txt | grep "=" 을 사용해서 <br>
 data.txt 파일안에 사람이 읽을 수 있는 문자열 추출 후 <br>
 =가 포함된 행들만 출력<br> 
