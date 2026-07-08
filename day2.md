@@ -91,10 +91,7 @@ grep '검색어' 파일이름 → 파일을 직접 읽어서 검색 <br>
 |(파이프라인) 을 사용한 경우는 <br>
 (예) ls | grep ".txt" <br>
 <br>
-    ls의 결과가   a.txt  라면 <br>
-                b.txt <br>
-                hello.c <br>
-                main.cpp <br>
+    ls의 결과가   a.txt, b.txt, hello.c, main.cpp 라면 <br>
     <br>
     grep은 이 출력을 받아서 .txt의 형식만 출력해주는 형태임 <br>
 <br>
