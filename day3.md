@@ -7,7 +7,9 @@
 <pre>
     사용한 명령어
     - base64 (옵션 : d)
+</pre>
 
+<pre>
     배운 것
 
     base64 
@@ -27,7 +29,9 @@
 <pre>
     사용한 명령어
     - tr
+</pre>
 
+<pre>
     배운 것
 
     tr [바꿀문자들] [바뀔문자들]
@@ -66,8 +70,8 @@
     - file
 
     - hexdump
-    
-
+</pre>    
+<pre>
     배운 것
 
     mktemp -d
@@ -157,7 +161,8 @@
 
     whoami
     - 현재 사용자계정을 확인할수 있음
-
+</pre>
+<pre>
     * 
         ssh -i sshkey.private bandit14.localhost -p 2220
         -> 이미 나는 bandit 서버에 들어와있어서 다시 인터넷으로 갈 필요가 없기 때문에 localhost를 사용해서 
