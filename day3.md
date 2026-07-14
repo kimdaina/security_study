@@ -1,4 +1,4 @@
-오늘 목표(2026-07-010)
+오늘 목표(2026-07-10)
 
 # Bandit
 
@@ -163,7 +163,7 @@
 </pre>
 <pre>
     * 
-        ssh -i sshkey.private bandit14.localhost -p 2220
+        ssh -i sshkey.private bandit14@localhost -p 2220
         -> 이미 나는 bandit 서버에 들어와있어서 다시 인터넷으로 갈 필요가 없기 때문에 localhost를 사용해서 
             개인키(i) sshkey.private bandit14@localhost 을 이용해서 bandit14로 사용자를 바꾸는것
 
